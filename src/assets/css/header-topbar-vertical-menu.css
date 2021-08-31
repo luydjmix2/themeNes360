@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23/08/2021, 10:01:45 AM
+    Author     : Sammy Guergachi <sguergachi at gmail.com>
+*/
+
+.tobbar-verticalmenu {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 280px;
+    z-index: 1002;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgb(15 34 58 / 12%);
+}
+
+@media (max-width:992px){
+    .tobbar-verticalmenu {
+        left: 0px;
+    }
+}

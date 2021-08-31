@@ -1,0 +1,16 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30/08/2021, 05:51:18 PM
+    Author     : Sammy Guergachi <sguergachi at gmail.com>
+*/
+@import "../libs/bootstrap/css/bootstrap.min.css";
+@import "unicons-line.css";
+@import "header-topbar-vertical-menu.css";
+@import "sidebar.css";
+@import "mainSidebarLeft.css";
+@import "../libs/metismenu/css/metismenu.min.css";
+@import "colorStyle.css";

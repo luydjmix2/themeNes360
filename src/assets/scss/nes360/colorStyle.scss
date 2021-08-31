@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 30/08/2021, 05:56:49 PM
+    Author     : Sammy Guergachi <sguergachi at gmail.com>
+*/
+$basic-01:#02cfaa;
+$basic-02:#028641;
+$basic-03:#2d3e56;
+
+.bg-basic{
+    &-01{
+        background: $basic-01;
+    }
+    &-02{
+        background: $basic-02;
+    }
+    &-03{
+        background: $basic-03;
+    }
+}
+.text-color{
+    &-01{
+        background: $basic-01;
+    }
+    &-02{
+        background: $basic-02;
+    }
+    &-03{
+        background: $basic-03;
+    }
+}

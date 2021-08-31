@@ -1,0 +1,34 @@
+{
+  "name": "themenes360",
+  "version": "1.0.0",
+  "description": "Theme Nes360 basado en \u001b[1;6D\u001b[1;6D60 con base en bootstrao 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luydjmix2/themeNes360.git"
+  },
+  "keywords": [
+    "Theme",
+    "Css",
+    "Bootstrao",
+    "5"
+  ],
+  "author": "Luis Erasmo Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luydjmix2/themeNes360/issues"
+  },
+  "homepage": "https://github.com/luydjmix2/themeNes360#readme",
+  "dependencies": {
+    "@iconscout/unicons": "^4.0.0",
+    "@popperjs/core": "^2.9.3",
+    "bootstrap": "^5.1.0",
+    "datatables.net": "^1.10.25",
+    "jquery": "^3.6.0",
+    "laravel-mix": "^6.0.29",
+    "metismenu": "^3.0.7"
+  }
+}
